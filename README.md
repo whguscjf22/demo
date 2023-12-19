@@ -10,4 +10,4 @@ merge test A
 merge test B
 
 merge test_2
-깃
+깃깃2
